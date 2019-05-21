@@ -27,6 +27,7 @@ codegen/
 # Octave session info
 octave-workspace
 
+
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
